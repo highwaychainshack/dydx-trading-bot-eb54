@@ -1,4 +1,4 @@
-# 
+# instant dydx trading bot Addon | token-launch-monitoring + token-swapping offers the most advanced dydx trading bot, with token-launch-monitoring and token-swapping. Ideal for
 
 
 
